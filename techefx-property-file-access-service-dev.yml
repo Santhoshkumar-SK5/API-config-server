@@ -1,2 +1,3 @@
-property-file.name=devlopment file
-property-file.description=hi worked
+property-file:
+  name: development File
+  description: DEV
